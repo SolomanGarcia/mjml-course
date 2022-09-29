@@ -16,13 +16,8 @@
   </mj-style>
 </mj-head>
   <mj-body background-color="#f2f2f2">
-  <mj-raw>
-    <!-- Header -->
-  </mj-raw>
-    <mj-section css-class="header section-padding">
-      <mj-column>
-        <mj-image src="http://127.0.0.1:5500/assets/logo.png" alt="Shopify Logo" href="https://shopify.com" width="121px" align="left" />
-      </mj-column>
-    </mj-section>
+    <mj-include path="./components/header.mjml" />
+    
+    <mj-include path="./components/footer.mjml" />
   </mj-body>
 </mjml>
