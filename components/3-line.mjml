@@ -1,7 +1,7 @@
  <mj-raw>
       <!-- Three line divider -->
     </mj-raw>
-    <mj-section>
+    <mj-section background-color="#ffffff">
       <mj-column>
         <mj-image src="http://127.0.0.1:5500/assets/3-lines.png" padding="0" />
       </mj-column>
